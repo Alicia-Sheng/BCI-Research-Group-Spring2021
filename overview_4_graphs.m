@@ -1,5 +1,5 @@
 %{
-This function is to draw the graph of for 4 nodes 5 bands
+This function is to draw 4 graphs for 4 nodes 5 bands
 Author: Yulu Pan
 
 Input:
